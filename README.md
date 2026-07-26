@@ -1,5 +1,8 @@
 # ghost-call-defense
 
+![License](https://img.shields.io/github/license/Param-Cloudtelecom/ghost-call-defense) ![Top Language](https://img.shields.io/github/languages/top/Param-Cloudtelecom/ghost-call-defense) ![Last Commit](https://img.shields.io/github/last-commit/Param-Cloudtelecom/ghost-call-defense)
+
+
 Detection and mitigation for **ghost calls** — SIP scanning bursts and
 short, unanswered "wangiri"-style calls designed to bait a callback to a
 premium-rate number, or to enumerate which extensions/DIDs are live on a
